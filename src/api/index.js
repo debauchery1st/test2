@@ -1,0 +1,1 @@
+export { addNewAnimal } from './animals';
